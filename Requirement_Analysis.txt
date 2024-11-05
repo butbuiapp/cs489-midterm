@@ -1,0 +1,5 @@
+- The system allows to create, update, delete Garden.
+- The system allows to retrieve all Gardens sorted by name.
+- The system allows to create, update, delete Plant.
+- The system allows to retrieve all plants sorted by name.
+- The system allows to retrieve all plants sorted by plant Date.
